@@ -8,7 +8,7 @@ I will be using [SQLAlchemy](https://flask.palletsprojects.com/en/1.1.x/patterns
 ### Objectives
 
 * [X] ~~*Serve static API object to development server*~~ [2021-02-12]
-* [ ] Add SQLite3 and initialize database tables
+* [X] ~~*Add SQLite3 and initialize database tables*~~ [2021-02-15]
 * [ ] Incorporate all RESTful conventions to flask API
 * [ ] Integrate ORM via SQLAlchemy
 * [ ] Migrate to non-tabular database (MongoDB?)
